@@ -1,4 +1,4 @@
-# <Module-1-Challenge>
+# Module 1 Challenge
 
 ## Semantic HTML & Accessibility
 
@@ -6,7 +6,7 @@ The first challenge is intended to practice semantic HTML to organize code and m
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+User can click on this link to access the website: http://127.0.0.1:5500/Module-1-Challenge/02-Challenge/Develop/index.html#social-media-marketing
 
 ## Usage
 
